@@ -42,13 +42,13 @@ This is a list of all the mods used on the server. Note that there are additiona
 
 ## Server Launch Command
 
-To run the server on a Linux terminal, use the following command, replacing `[Amount of Ram you want to use]` with the actual amount of RAM you wish to allocate, for example, `14G`:
+To run the server on a Linux terminal, use the following command, replacing `[Amount of Ram you want to use]` with the actual amount of RAM you wish to allocate:
 
 ```
 sudo java -Xmx[Amount of Ram you want to use] -jar forge-1.12.2-14.23.5.2859.jar nogui
 ```
 
-Example command with 14 GB of RAM:
+Example command with `14G` of RAM:
 
 ```
 sudo java -Xmx14G -jar forge-1.12.2-14.23.5.2859.jar nogui -Dfml.queryResult=confirm

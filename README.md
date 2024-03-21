@@ -134,5 +134,5 @@ sudo java -Xmx[Amount of Ram you want to use] -jar forge-1.12.2-14.23.5.2859.jar
 Example command with `14G` of RAM:
 
 ```
-sudo java -Xmx14G -jar forge-1.12.2-14.23.5.2859.jar nogui -Dfml.queryResult=confirm
+sudo java -Xmx14G -jar forge-1.12.2-14.23.5.2859.jar nogui
 ```

@@ -124,8 +124,14 @@ This is a list of all the mods used on the server. Note that there are additiona
 - AutoRegLib (by Vazkii)
 
 ## Server Launch Command
+```
+git clone https://github.com/CarterPry/modded-mc-server.git
+```
+```
+cd modded-mc-server
+```
 
-To run the server on a Linux terminal, use the following command, replacing `[Amount of Ram you want to use]` with the actual amount of RAM you wish to allocate:
+Then to run the server on a Linux terminal, use the following command, replacing `[Amount of Ram you want to use]` with the actual amount of RAM you wish to allocate:
 
 ```
 sudo java -Xmx[Amount of Ram you want to use] -jar forge-1.12.2-14.23.5.2859.jar nogui
